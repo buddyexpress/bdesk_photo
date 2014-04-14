@@ -7,6 +7,7 @@ There are some restrictions in plugin like:
  1. The image must be equal to or less then 500KB
  2. The image must be equal to or less then 800x800 in dimensions.
 
+Note: If you want to remove restriction replace plugin.min.js with the code found here https://gist.github.com/arsalanshah/10623688
 
 Last Edit README.md : Leonard Walter
 
