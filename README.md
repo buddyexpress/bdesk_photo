@@ -9,3 +9,5 @@ There are some restrictions in plugin like:
 
 
 Last Edit README.md : Leonard Walter
+
+COPYRIGHT 2014 Informatikon Technologies informatikon.com
